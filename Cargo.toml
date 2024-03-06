@@ -4,7 +4,7 @@ version = "23.5.26"
 authors = ["chip <chip@chip.sh>"]
 description = "Vendored executable of flatbuffer's `flatc`."
 documentation = "https://docs.rs/flatc"
-@@ -11,4 +11,4 @@ keywords = ["flatbuffers"]
+keywords = ["flatbuffers"]
 edition = "2018"
 
 [build-dependencies]
